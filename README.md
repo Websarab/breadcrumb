@@ -17,3 +17,7 @@
         {% endfor %}
       <span aria-hidden="true">&rsaquo;</span>
       <span>{{ product.title }}</span>
+
+
+
+https://ideawrights.com/shopify-breadcrumbs-based-on-menu-structure/
